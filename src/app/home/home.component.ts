@@ -14,6 +14,7 @@ export class HomeComponent implements OnInit {
 
 
   }
+//change
 
   num1: number;
   num2: number;
